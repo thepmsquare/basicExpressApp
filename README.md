@@ -1,6 +1,6 @@
 # basic-express-typescript-template
 
-a modern, lightweight, and clean template for initializing express.js applications with typescript, es modules, and ejs.
+an opinionated template for initializing express.js applications with typescript, es modules, and ejs for personal use.
 
 > 📌 versioning: see [CHANGELOG.md](./CHANGELOG.md).
 
